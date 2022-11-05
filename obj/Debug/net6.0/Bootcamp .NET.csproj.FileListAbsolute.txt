@@ -1,0 +1,15 @@
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\bin\Debug\net6.0\Bootcamp .NET.exe
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\bin\Debug\net6.0\Bootcamp .NET.deps.json
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\bin\Debug\net6.0\Bootcamp .NET.runtimeconfig.json
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\bin\Debug\net6.0\Bootcamp .NET.dll
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\bin\Debug\net6.0\Bootcamp .NET.pdb
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\obj\Debug\net6.0\Bootcamp .NET.csproj.AssemblyReference.cache
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\obj\Debug\net6.0\Bootcamp .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\obj\Debug\net6.0\Bootcamp .NET.AssemblyInfoInputs.cache
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\obj\Debug\net6.0\Bootcamp .NET.AssemblyInfo.cs
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\obj\Debug\net6.0\Bootcamp .NET.csproj.CoreCompileInputs.cache
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\obj\Debug\net6.0\Bootcamp .NET.dll
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\obj\Debug\net6.0\refint\Bootcamp .NET.dll
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\obj\Debug\net6.0\Bootcamp .NET.pdb
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\obj\Debug\net6.0\Bootcamp .NET.genruntimeconfig.cache
+C:\Users\Napo\OneDrive\Área de Trabalho\Bootcamp .NET\obj\Debug\net6.0\ref\Bootcamp .NET.dll
