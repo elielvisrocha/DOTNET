@@ -1,23 +1,107 @@
-﻿///int number = 20;
+﻿string opcao;
+bool exibirMenu = true;
+
+while(exibirMenu) 
+{
+    Console.WriteLine("Digite sua opção:");
+    Console.WriteLine("1 - Cadastrar cliente");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Apagar cliente");
+    Console.WriteLine("4 - Encerrar");
+
+    opcao = Console.ReadLine();
+
+    switch(opcao) {
+        case "1": 
+            Console.WriteLine($"Cadastrar cliente");
+            break;
+        case "2": 
+            Console.WriteLine("Buscar cliente");
+            break;
+        case "3": 
+            Console.WriteLine("Apagar cliente");
+            break;
+        case "4": 
+            Console.WriteLine("Encerrar processo");
+            exibirMenu = false;
+            //Environment.Exit(0);
+            break;
+        default: 
+            Console.WriteLine("Digite uma opção válida");
+            break;
+    }
+}
+
+
+Console.WriteLine("Você está fora do looping");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//int numero = 10;
+
+/*for(int contador = 0; contador <= numero; contador++) {
+        Console.WriteLine(contador);
+};*/
+
+// int soma = 0, numero = 0;
+
+// do {
+//   Console.WriteLine("Digite um numero:");
+//   numero = Convert.ToInt32(Console.ReadLine());  
+//   soma+= numero;
+
+// } while (numero != 0);
+
+
+/*
+while (contador <= numero)
+{
+    Console.WriteLine($"{numero} X {contador} = {numero * contador}");
+    contador++;
+
+    if(contador == 50) {
+        break;
+    }
+}
+*/
+
+
+
+
+
+
+
+
+///int number = 20;
 
 //Console.WriteLine(++number);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*
 using Bootcamp_.NET;
 
 Calculadora calc = new Calculadora();
@@ -25,6 +109,7 @@ Calculadora calc = new Calculadora();
 calc.RaizQuadrada(25);
 Console.WriteLine(calc);
 
+*/
 
 // calc.Multiplicar(2, 5);
 // calc.Dividir(100, 10);
